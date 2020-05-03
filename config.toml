@@ -1,6 +1,6 @@
 languageCode = "ja"
 title = "dddpga1"
-theme = "anatole"
+theme = "diary"
 
 [params]
 title = "dddpga1"
@@ -15,9 +15,9 @@ identifier = "main"
 url = "/"
 
 [[menu.main]]
-name = "archive"
+name = "posts"
 weight = 200
-identifier = "archive"
+identifier = "posts"
 url = "/posts/"
 
 [[menu.main]]
