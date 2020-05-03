@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on dddpga1</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on dddpga1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 May 2020 11:28:33 +0900</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Sun, 03 May 2020 11:28:33 +0900</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>test 日本語てすと
+hogehoge code package main import &amp;quot;fmt&amp;quot; func main() { fmt.Println(&amp;quot;dddpga1&amp;quot;) }  huga  hoge foo  bar      </description>
+    </item>
+    
+  </channel>
+</rss>

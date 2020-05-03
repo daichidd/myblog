@@ -1,0 +1,27 @@
+languageCode = "ja"
+title = "dddpga1"
+theme = "anatole"
+
+[params]
+title = "dddpga1"
+author = "dddpga1"
+description = "my blog"
+profilePicture = ""
+
+[[menu.main]]
+name = "main"
+weight = 100
+identifier = "main"
+url = "/"
+
+[[menu.main]]
+name = "archive"
+weight = 200
+identifier = "archive"
+url = "/posts/"
+
+[[menu.main]]
+name = "about"
+weight = 300
+identifier = "about"
+url = "/about/"
