@@ -2,21 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on dddpga1</title>
-    <link>/post/</link>
+    <link>https://myblog-ce6ae.web.app/post/</link>
     <description>Recent content in Posts on dddpga1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 04 May 2020 01:28:07 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2020 01:51:56 +0900</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://myblog-ce6ae.web.app/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>今後ここ使ってやること</title>
+      <link>https://myblog-ce6ae.web.app/post/diary-2020050402/</link>
+      <pubDate>Mon, 04 May 2020 01:51:56 +0900</pubDate>
+      
+      <guid>https://myblog-ce6ae.web.app/post/diary-2020050402/</guid>
+      <description>記事二つにしたかっただけとりあえず、 一々更新する度にpushしてdeployしては面倒なので
+  ci導入する
+ github actions使ってみる    markdown編集画面でも作ってみる
+ 管理画面入らないけどpreviewできたりボタン押せたりするものを    ドメイン取得する
+ お金はここはしかたない    blog作成したとこから記事にする
+  趣味のためのページでも作る
+  記事のファイル名を diary-日付01.md みたいにしてるので、自動でできるようにしたい
+ hugo new コマンドがしてること調べてから    favicon
+ 今もエラーでてるんだよね    目標を明確にするときっとやる気がでる 頑張ろう</description>
+    </item>
+    
+    <item>
       <title>ブログ始める多分</title>
-      <link>/post/diary-20200504/</link>
+      <link>https://myblog-ce6ae.web.app/post/diary-2020050401/</link>
       <pubDate>Mon, 04 May 2020 01:28:07 +0900</pubDate>
       
-      <guid>/post/diary-20200504/</guid>
+      <guid>https://myblog-ce6ae.web.app/post/diary-2020050401/</guid>
       <description>ブログ作った 暇だったのhugoが前から気になっていたので、 hugo+firebase hostingでブログ作ってみました。
 細かいことは今度多分書きますが、 とりあえず便利です。あっという間に出来上がって公開まで至ることができました。
 独自ドメイン等の設定はまだしてませんが、それも簡単そうです。
