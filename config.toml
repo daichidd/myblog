@@ -1,12 +1,12 @@
 languageCode = "ja"
 title = "dddpga1"
-theme = "diary"
+theme = "anatole"
 
 [params]
 title = "dddpga1"
 author = "dddpga1"
 description = "my blog"
-profilePicture = ""
+profilePicture = "images/profile.jpg"
 
 [[menu.main]]
 name = "main"
@@ -18,10 +18,4 @@ url = "/"
 name = "posts"
 weight = 200
 identifier = "posts"
-url = "/posts/"
-
-[[menu.main]]
-name = "about"
-weight = 300
-identifier = "about"
-url = "/about/"
+url = "/posts"

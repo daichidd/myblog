@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dddpga1</title>
@@ -5,43 +6,9 @@
     <description>Recent content on dddpga1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 03 May 2020 11:28:33 +0900</lastBuildDate>
     
-        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    
-        <item>
-        <title>My First Post</title>
-        <link>/posts/my-first-post/</link>
-        <pubDate>Sun, 03 May 2020 11:28:33 +0900</pubDate>
-        
-        <guid>/posts/my-first-post/</guid>
-        <description>dddpga1 /posts/my-first-post/ -&lt;h2 id=&#34;test&#34;&gt;test&lt;/h2&gt;
-&lt;p&gt;日本語てすと&lt;/p&gt;
-&lt;h3 id=&#34;hogehoge-code&#34;&gt;hogehoge code&lt;/h3&gt;
-&lt;pre&gt;&lt;code&gt;package main
-
-import &amp;quot;fmt&amp;quot;
-
-func main() {
-	fmt.Println(&amp;quot;dddpga1&amp;quot;)
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
-&lt;li&gt;huga
-&lt;ul&gt;
-&lt;li&gt;hoge&lt;/li&gt;
-&lt;li&gt;foo
-&lt;ul&gt;
-&lt;li&gt;bar&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-- /posts/my-first-post/ - </description>
-        </item>
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
-</rss> 
+</rss>
