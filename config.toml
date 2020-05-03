@@ -9,6 +9,11 @@ author = "dddpga1"
 description = "my blog"
 profilePicture = "images/profile.jpg"
 
+[[params.socialIcons]]
+icon = "fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/ayatobrea"
+
 [menu]
 
   [[menu.main]]
