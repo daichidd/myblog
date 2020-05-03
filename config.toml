@@ -8,14 +8,16 @@ author = "dddpga1"
 description = "my blog"
 profilePicture = "images/profile.jpg"
 
-[[menu.main]]
-name = "main"
-weight = 100
-identifier = "main"
-url = "/"
+[menu]
 
-[[menu.main]]
-name = "posts"
-weight = 200
-identifier = "posts"
-url = "/posts"
+  [[menu.main]]
+  name = "Home"
+  weight = 100
+  identifier = "home"
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
