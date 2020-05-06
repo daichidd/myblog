@@ -6,10 +6,21 @@
     <description>Recent content in Posts on dddpga1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 04 May 2020 01:51:56 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2020 16:56:16 +0900</lastBuildDate>
     
 	<atom:link href="https://myblog-ce6ae.web.app/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>slack使えばいいんじゃないかってめも</title>
+      <link>https://myblog-ce6ae.web.app/post/diary-2020050601/</link>
+      <pubDate>Wed, 06 May 2020 16:56:16 +0900</pubDate>
+      
+      <guid>https://myblog-ce6ae.web.app/post/diary-2020050601/</guid>
+      <description>ふと思ったんだけど、前回書いた投稿用のフォーム作るみたいなのって
+slack連動させて、slack上で編集して、投稿をトリガーにしたbot application 作ればいいんじゃないかって思った。 slackでmarkdownの編集は最近改修入ったしね。
+遠い昔だけどhubot？だかなんだかって名前のgoのslack bot作成fwみたいなのを 使った記憶があるからそれでできそう。</description>
+    </item>
     
     <item>
       <title>今後ここ使ってやること</title>
